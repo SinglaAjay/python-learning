@@ -6,3 +6,5 @@ for i in range(num):
     sum = sum +(i+1)
 
 print(f"The sum of numbers from 0 to {num-1} is: {sum}")
+
+print()
